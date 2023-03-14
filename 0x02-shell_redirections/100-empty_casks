@@ -1,0 +1,2 @@
+#!/bin/bashghgggggtrtrtriyjrtyri67r76tr67tyu77t
+find . -empty | rev | cut -d '/' -f 1 | rev       
